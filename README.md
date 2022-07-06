@@ -4,7 +4,7 @@ If you wish to use the package with different spectra than provided here, prepar
 2) One or more simulated spectra files. The allowed inputs are consistent with GaussView exported widened IR spectra. The HWHM used were 4cm-1, however in general they can take different values.
 
 Structures from the https://doi.org/10.21203/rs.3.rs-994401/v1 are dubbed as follows:
-1 - 0018
-2 - 0068
-3 - 00L3
-4 - 0097
+ 1 - 0018
+ 2 - 0068
+ 3 - 00L3
+ 4 - 0097
